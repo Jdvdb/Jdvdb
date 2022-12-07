@@ -1,6 +1,6 @@
-Howdy, I'm Jordan!
+# Howdy, I'm Jordan Van Den Bruel!
 
-Currently enrolled in my fourth year of honours computing science at the University of Alberta, I'm finishing
+I'm currently enrolled in my fourth year of honours computing science at the University of Alberta and finishing
 up a year long internship at TELUS and looking for summer internship opportunities!
 
 If you want to learn a little more about me, feel free to check out my new website:
